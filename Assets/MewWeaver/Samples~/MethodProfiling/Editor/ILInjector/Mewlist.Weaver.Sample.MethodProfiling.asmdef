@@ -1,0 +1,24 @@
+{
+    "name": "Mewlist.Weaver.Sample.MethodProfiling",
+    "rootNamespace": "",
+    "references": [
+        "GUID:387a0c36539d34d4eb1767ff04b86e76",
+        "GUID:4ec674cafc7ecda4ba3b0616ea4a3193"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Mono.Cecil.dll",
+        "Mono.Cecil.Pdb.dll",
+        "Mono.Cecil.Mdb.dll",
+        "Mono.Cecil.Rocks.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

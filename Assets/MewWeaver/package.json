@@ -1,0 +1,34 @@
+{
+  "name": "com.mewlist.mew-weaver",
+  "displayName": "MewWeaver",
+  "version": "0.0.0",
+  "unity": "2021.3",
+  "description": "IL Weaving framework for Unity",
+  "author": {
+    "name": "mewlist",
+    "url": "https://github.com/mewlist"
+  },
+
+  "keywords": [
+    "AOP",
+    "ILWeaving",
+    "Cecil"
+  ],
+
+  "dependencies": {
+    "com.unity.nuget.mono-cecil": "1.11.4"
+  },
+
+  "samples": [
+    {
+      "displayName": "Before After Injection",
+      "description": "Before After Injection Sample.",
+      "path": "Samples~/BeforeAfter"
+    },
+    {
+      "displayName": "MothodProfiling",
+      "description": "Simple Stopwatch Profiler",
+      "path": "Samples~/MethodProfiling"
+    }
+  ]
+}
